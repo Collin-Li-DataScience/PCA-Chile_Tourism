@@ -1,5 +1,7 @@
 # Chile Tourism Analysis with PCA
-Author: Mucong (Collin) Li
+
+
+**Author** : Mucong (Collin) Li
 
 **Data**: 
  - Row: 15 regions of Chile
