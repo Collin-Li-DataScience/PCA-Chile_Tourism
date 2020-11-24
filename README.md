@@ -7,8 +7,8 @@
  - Row: 15 regions of Chile
 
 ## Technical
-**Method**: Principal Component Analysis (PCA)
-**Language**: Python (notebook)
+**Method**: Principal Component Analysis (PCA).       
+**Language**: Python (notebook).      
 **Data**: 
  - Row: 15 regions of Chile
  - Column: 132 variables grouped into 10 dimensions
@@ -24,9 +24,9 @@
 -   Ranking the specific criteria, prioritize
 -   Support analysis and decision making
 
-**PCA - what it is for clients?**
+**PCA - what it is for clients?**          
 Every time we have a set of alternatives/options, for which we have different type data/information, and we need to rank/select/decide variables and type of information, PCA is useful
 
- **Other PCA applications:**
+ **PCA - other applications:**
 -   Genetics
 -   Find market to focus on when launching new products
