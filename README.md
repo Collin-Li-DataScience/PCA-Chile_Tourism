@@ -1,4 +1,8 @@
 # Chile Tourism Analysis with PCA
+Author: Mucong (Collin) Li
+
+**Data**: 
+ - Row: 15 regions of Chile
 
 ## Technical
 **Method**: Principal Component Analysis (PCA)
