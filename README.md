@@ -3,6 +3,8 @@
 
 **Author** : Mucong (Collin) Li
 
+**Time Completed**: November 2020 
+
 **Files**: 
  - Chile_Tourism_PCA_analysis.ipynb:  
 
