@@ -3,8 +3,11 @@
 
 **Author** : Mucong (Collin) Li
 
-**Data**: 
- - Row: 15 regions of Chile
+**Files**: 
+ - Chile_Tourism_PCA_analysis.ipynb:  Part 1-6 of the project - main components of PCA
+ - Chile_Tourism_PCA_BI.ipynb:        Part 7 of the project - business intelligence related (visulizations, snapshots of presentation deck)
+ - Chile_Tourism_PCA_combined.ipynb:  The original file that consists of the above 2 parts, which is too large for GitHub to render;
+                                      You may read the rendered file here: https://nbviewer.jupyter.org/github/Collin-Li-DataScience/PCA_Chile_Tourism/blob/main/Chile_Tourism_PCA_combined.ipynb
 
 ## Technical
 **Method**: Principal Component Analysis (PCA).       
