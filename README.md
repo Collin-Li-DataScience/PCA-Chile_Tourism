@@ -19,9 +19,13 @@
 > large for GitHub to render; you may read the rendered file here:
 > https://nbviewer.jupyter.org/github/Collin-Li-DataScience/PCA_Chile_Tourism/blob/main/Chile_Tourism_PCA_combined.ipynb
 
+ - Chile_Tourism_Visualization.twb:  
+
+> Visualizations with Tableau
+
 ## Technical
-**Method**: Principal Component Analysis (PCA).       
-**Language**: Python (notebook).      
+**Method**: Principal Component Analysis (PCA)        
+**Language**: Python (notebook)        
 **Data**: 
  - Row: 15 regions of Chile
  - Column: 132 variables grouped into 10 dimensions
