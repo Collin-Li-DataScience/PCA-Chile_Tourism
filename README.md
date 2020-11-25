@@ -28,7 +28,7 @@
 
 
 ## About the Project
-**Stakeholder**: the Ministry of Economic and Tourism Development of Chile
+**Stakeholder**: the Ministry of Economic and Tourism Development of Chile     
 **Goal**: Make recommendation to country-level decision makers regarding regions, dimensions, and post-COVID strategies
 
 ## Further
