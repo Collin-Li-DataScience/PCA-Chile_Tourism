@@ -36,6 +36,11 @@
 ## About the Project
 **Stakeholder**: the Ministry of Economic and Tourism Development of Chile     
 **Goal**: Make recommendation to country-level decision makers regarding regions, dimensions, and post-COVID strategies
+**Extra research done:**
+- The Travel & Tourism Competitiveness Report 2019 by World Economic Forum
+- OECD Tourism Trends and Policies 2020
+- "In post-COVID Latin America, investment in infrastructure can bring back tourism – and rebuild the economy" by World Economic Forum
+- World Tourism Barometer Vol 18, Issue 5 (Aug/Sep 2020) by UNTWO (World Tourism Organization)
 
 ## Further
  **PCA**: 
